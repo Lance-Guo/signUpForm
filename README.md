@@ -1,2 +1,2 @@
-# signUpForm
-这是一个包含动态验证码的注册表单
+# simple form
+这是一个简单的[表单](https://lance-guo.github.io/simpleForm/)
